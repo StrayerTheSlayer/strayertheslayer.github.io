@@ -1,6 +1,6 @@
 <packageInfo>
-    <bundleId>ch.mdaus.exampletweak</bundleId>
-    <name>Example Tweak</name>
+    <bundleId>com.strayer.stray.lite</bundleId>
+    <name>Stray Lite</name>
     <version>0.0.2</version>
     <descriptions>
         <description>
@@ -20,6 +20,8 @@
     </dependencies>
     <changelog>
         <change>
+            <changeVersion>V1.01 </changeVersion>
+            <changeDescription>Remove ".DS_Store" files</changeDescription>
             <changeVersion>V1.0 </changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
