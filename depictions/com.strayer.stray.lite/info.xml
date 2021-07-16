@@ -22,8 +22,6 @@
         <change>
             <changeVersion>V1.01 </changeVersion>
             <changeDescription>Remove ".DS_Store" files</changeDescription>
-            <changeVersion>V1.0 </changeVersion>
-            <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
 </packageInfo>
